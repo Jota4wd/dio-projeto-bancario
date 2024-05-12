@@ -1,13 +1,13 @@
-Desafio: Criando um sistema
-bancário
+# 1️⃣ Desafio Criar um sistema bancário
 
+**Criar um sistema bancário com as operações:**
 
+- Depositar
+- Sacar
+- Extrato
 
-Objetivo Geral
-Criar um sistema bancário com as operações: sacar, depositar
-e visualizar extrato.
+##Objetivo Geral
 
-Desafio
 Fomos contratados por um grande banco para desenvolver o
 seu novo sistema. Esse banco deseja modernizar suas
 operações e para isso escolheu a linguagem Python. Para a
@@ -38,3 +38,29 @@ mensagem: Não foram realizadas movimentações.
 Os valores devem ser exibidos utilizando o formato R$ xxx.xx,
 exemplo:
 1500.45 = R$ 1500.45
+
+
+
+# 2️⃣ Desafio Criar um sistema bancário
+
+**Criar um sistema bancário com as operações:**
+
+- Depositar
+- Sacar
+- Extrato
+- Cadastrar usuario
+-Cadastrar conta
+
+##Objetivo Geral
+
+Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Você terá a chance de refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Prepare-se para aplicar conceitos avançados de programação e demonstrar sua habilidade em criar soluções mais elegantes e eficientes utilizando Python.
+
+
+
+# 3️⃣ Desafio Criar um sistema bancário
+
+**Criar um sistema bancário usando programação orientada a objetos:**
+
+## Objetivo Geral
+
+Neste desafio iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML
